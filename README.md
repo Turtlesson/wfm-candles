@@ -1,0 +1,1 @@
+this project will hopefully become a market analyzer for warframe.market. It will use the WarframeMarketAPI to fetch data and then analyze it showing the user what items are moving a lot of product and hopefully give an idea what to focus on for platinum returns.
